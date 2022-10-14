@@ -1,0 +1,12 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\UjFutar.Api\UjFutar.Api.csproj" />
+    <ProjectReference Include="..\UjFutar.EsemenyTar.Api\UjFutar.EsemenyTar.Api.csproj" />
+  </ItemGroup>
+
+</Project>
