@@ -9,9 +9,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UjFutar.Api", "UjFutar.Api\
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UjFutar.MemoryEsemenyTar", "UjFutar.MemoryEsemenyTar\UjFutar.MemoryEsemenyTar.csproj", "{048B30FA-294C-4178-9B88-202D841A16E6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UjFutar.MemoryEsemenyTar.Unit", "UjFutar.MemoryEsemenyTar.Unit\UjFutar.MemoryEsemenyTar.Unit.csproj", "{5AB766ED-E050-479B-9616-D9D2517E675A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UjFutar.MemoryEsemenyTar.Unit", "UjFutar.MemoryEsemenyTar.Unit\UjFutar.MemoryEsemenyTar.Unit.csproj", "{5AB766ED-E050-479B-9616-D9D2517E675A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UjFutar.EsemenyTar.Api", "UjFutar.EsemenyTar.Api\UjFutar.EsemenyTar.Api.csproj", "{5121606C-BBAE-473F-9A15-09C1BFCE2D6E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UjFutar.EsemenyTar.Api", "UjFutar.EsemenyTar.Api\UjFutar.EsemenyTar.Api.csproj", "{5121606C-BBAE-473F-9A15-09C1BFCE2D6E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UjFutar.WebApi", "UjFutar.WebApi\UjFutar.WebApi.csproj", "{51445811-F354-4E80-9C6C-3D24F9952467}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +41,10 @@ Global
 		{5121606C-BBAE-473F-9A15-09C1BFCE2D6E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5121606C-BBAE-473F-9A15-09C1BFCE2D6E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5121606C-BBAE-473F-9A15-09C1BFCE2D6E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{51445811-F354-4E80-9C6C-3D24F9952467}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{51445811-F354-4E80-9C6C-3D24F9952467}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{51445811-F354-4E80-9C6C-3D24F9952467}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{51445811-F354-4E80-9C6C-3D24F9952467}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
